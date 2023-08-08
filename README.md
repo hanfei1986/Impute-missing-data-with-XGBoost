@@ -7,4 +7,5 @@ In this dataset, a lot of "cost" data missing, but they are quite important to p
 
 If we impute the missing "cost" with its mean or median, there will be a spike in the imputed dataset. In contrast, imputing the missing "cost" with a XGBoost regressor which is embedded in the data transformer and predicts "cost" from other features is very effective.
 
-![image](https://github.com/hanfei1986/XGBoost-missing-data-imputer/assets/59255164/5bf0a4ac-9734-4114-a16d-94899b931b26)
+![image](https://github.com/hanfei1986/XGBoost-missing-data-imputer/assets/59255164/d1f08e52-020a-4f1b-b2a1-103a5fb9122e)
+
