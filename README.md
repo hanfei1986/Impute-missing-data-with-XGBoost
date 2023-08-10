@@ -1,4 +1,4 @@
-# XGBoost-missing-data-imputer
+# Impute-missing-data-with-XGBoost
 When signaficant amont of data in highly-important features are missing, what can we do? Impute the missing data with mean or median? In the Juyter notebook, I demonstrate embedding a XGBoost model to do the data imputation in the data transformer.
 
 In this dataset, a lot of "cost" data missing, but they are quite important to predict "price".
